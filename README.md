@@ -1,2 +1,2 @@
 # BCP-FULL
-bcp full proj
+BCP Full
